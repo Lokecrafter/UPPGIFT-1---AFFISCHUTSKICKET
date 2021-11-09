@@ -1,0 +1,16 @@
+C:\Users\Admin\Documents\GitHub\UPPGIFT-1---AFFISCHUTSKICKET\bin\Debug\net5.0\UPPGIFT-1---AFFISCHUTSKICKET.exe
+C:\Users\Admin\Documents\GitHub\UPPGIFT-1---AFFISCHUTSKICKET\bin\Debug\net5.0\UPPGIFT-1---AFFISCHUTSKICKET.deps.json
+C:\Users\Admin\Documents\GitHub\UPPGIFT-1---AFFISCHUTSKICKET\bin\Debug\net5.0\UPPGIFT-1---AFFISCHUTSKICKET.runtimeconfig.json
+C:\Users\Admin\Documents\GitHub\UPPGIFT-1---AFFISCHUTSKICKET\bin\Debug\net5.0\UPPGIFT-1---AFFISCHUTSKICKET.runtimeconfig.dev.json
+C:\Users\Admin\Documents\GitHub\UPPGIFT-1---AFFISCHUTSKICKET\bin\Debug\net5.0\UPPGIFT-1---AFFISCHUTSKICKET.dll
+C:\Users\Admin\Documents\GitHub\UPPGIFT-1---AFFISCHUTSKICKET\bin\Debug\net5.0\ref\UPPGIFT-1---AFFISCHUTSKICKET.dll
+C:\Users\Admin\Documents\GitHub\UPPGIFT-1---AFFISCHUTSKICKET\bin\Debug\net5.0\UPPGIFT-1---AFFISCHUTSKICKET.pdb
+C:\Users\Admin\Documents\GitHub\UPPGIFT-1---AFFISCHUTSKICKET\obj\Debug\net5.0\UPPGIFT-1---AFFISCHUTSKICKET.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\GitHub\UPPGIFT-1---AFFISCHUTSKICKET\obj\Debug\net5.0\UPPGIFT-1---AFFISCHUTSKICKET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\GitHub\UPPGIFT-1---AFFISCHUTSKICKET\obj\Debug\net5.0\UPPGIFT-1---AFFISCHUTSKICKET.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\GitHub\UPPGIFT-1---AFFISCHUTSKICKET\obj\Debug\net5.0\UPPGIFT-1---AFFISCHUTSKICKET.AssemblyInfo.cs
+C:\Users\Admin\Documents\GitHub\UPPGIFT-1---AFFISCHUTSKICKET\obj\Debug\net5.0\UPPGIFT-1---AFFISCHUTSKICKET.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\GitHub\UPPGIFT-1---AFFISCHUTSKICKET\obj\Debug\net5.0\UPPGIFT-1---AFFISCHUTSKICKET.dll
+C:\Users\Admin\Documents\GitHub\UPPGIFT-1---AFFISCHUTSKICKET\obj\Debug\net5.0\ref\UPPGIFT-1---AFFISCHUTSKICKET.dll
+C:\Users\Admin\Documents\GitHub\UPPGIFT-1---AFFISCHUTSKICKET\obj\Debug\net5.0\UPPGIFT-1---AFFISCHUTSKICKET.pdb
+C:\Users\Admin\Documents\GitHub\UPPGIFT-1---AFFISCHUTSKICKET\obj\Debug\net5.0\UPPGIFT-1---AFFISCHUTSKICKET.genruntimeconfig.cache
